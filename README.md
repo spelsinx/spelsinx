@@ -19,6 +19,19 @@
  <h2 class="margin-bottom-20" align="center">Credits:</h2>
   <h3>• <a href="https://github.com/anuraghazra" align="center">anuraghazra</a> for github-readme-stats,<br align="center">
   • <a href="https://img.shields.io/" align="center">img.shield.io</a align="center"> for badges.</h3>
+
+<div align="center" >
+<hr></hr>
+
+[![card](https://github-readme-stats.vercel.app/api?username=spelsinx&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=danzok.danzok)
+</div>
+<div align="center">
+  <a href="https://github.com/spelsinx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spelsinx&layout=compact&langs_count=7&theme=tokyonight"/>    
+</div>
+
 </body>
 
 </html>
