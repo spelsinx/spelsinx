@@ -12,26 +12,14 @@
 		<h3 align="center">I am an advanced middle coder, designer and logistician.</i><br>
   <h3 align="center">私はコーダーデザイナーでありロジスティクス担当者です</i><br>
 <p><br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=spelsinx&show_icons=true&theme=omni" /><br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spelsinx&theme=omni&layout=compact" />
+<h2 class="margin-bottom-20" align="center">Statistics:</h2>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=spelsinx&show_icons=true&theme=midnight-purple" /><br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spelsinx&theme=midnight-purple&layout=compact" />
  <h2 align="center" class="margin-bottom-2">Support:</h2>
 <p><a href="https://www.buymeacoffee.com/spelsinx" align="center"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="spelsinx" /></a  align="center"></p  align="center"><br  align="center"><br  align="center">
  <h2 class="margin-bottom-20" align="center">Credits:</h2>
   <h3>• <a href="https://github.com/anuraghazra" align="center">anuraghazra</a> for github-readme-stats,<br align="center">
   • <a href="https://img.shields.io/" align="center">img.shield.io</a align="center"> for badges.</h3>
-
-<div align="center" >
-<hr></hr>
-
-[![card](https://github-readme-stats.vercel.app/api?username=spelsinx&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=danzok.danzok)
-</div>
-<div align="center">
-  <a href="https://github.com/spelsinx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spelsinx&layout=compact&langs_count=7&theme=tokyonight"/>    
-</div>
-
 </body>
 
 </html>
