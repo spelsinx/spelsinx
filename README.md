@@ -3,9 +3,8 @@
 
 <head>
 	<link rel="stylesheet" href="styles.css">
-	<p align="center"> <img align="center" width=250 weigth=250 src="https://avatars.githubusercontent.com/u/108368693?s=400&u=f175a148b10a356365b8c9613daa5e3dea2f7a12&v=4" />
-		<br>
-		<a href="https://t.me/spelsinx"> <img align="center" src="https://img.shields.io/badge/Telegram-spelsinx-7d7c84?logo=Telegram&color=yellow&labelColor=000000" /> </a>
+	<p align="center"> <img align="center" width=250 weigth=250 src="https://avatars.githubusercontent.com/u/108368693?s=400&u=f175a148b10a356365b8c9613daa5e3dea2f7a12&v=4" /><br>
+		<br><a href="https://t.me/spelsinx"> <img align="center" src="https://img.shields.io/badge/Telegram-spelsinx-7d7c84?logo=Telegram&color=yellow&labelColor=000000" /> </a>
 	</p>
          <p align="center">
         <img height="22em" src="https://komarev.com/ghpvc/?username=spelsinx&color=yellow&label=Visitors" align="center"></img>
@@ -15,7 +14,7 @@
 		<h3 align="center">I am an advanced middle coder, designer and logistician.</i><br>
   <h3 align="center">私はコーダーデザイナーでありロジスティクス担当者です</i><br>
 <br><img src="https://readme-stickers.vercel.app/api/kodeveloper?name=spelsinx&theme=dark" align="center"></a>
-<p><br><br>
+<p>
 <h1 align="center">🧭 Projects:</h1>
  • <a align="center" target="_blank" href="https://github.com/spelsinx/telestatic">🛫 Telestatic</a><text> – Telegram MTProto framework for NodeJS.</text><br>
  • <a align="center" target="_blank" href="https://github.com/basescriptnet/BaseScript.lang">🏗️ BaseScript</a><text> – is a programming language, which aims to compile your code to JavaScript.</text><br>
