@@ -19,7 +19,7 @@
  • <a align="center" target="_blank" href="https://github.com/spelsinx/telestatic">🛫 Telestatic</a><text> – Telegram MTProto framework for NodeJS.</text><br>
  • <a align="center" target="_blank" href="https://github.com/basescriptnet/BaseScript.lang">🏗️ BaseScript</a><text> – is a programming language, which aims to compile your code to JavaScript.</text><br>
  • <a align="center" target="_blank" href="https://github.com/spelsinx/sketch">🖋️ Sketch</a><text> – is a programming language, created to combine all the ways and styles of writing code, and the language that compiles to JavaScript.</text><br>
- • <a align="center" target="_blank" href="https://github.com/spelsinx/myreact">⚛️ Atomic</a><text> – an attempt to create a minified and faster version of React likeness.</text><br>
+ • <a align="center" target="_blank" href="https://github.com/spelsinx/atomic">⚛️ Atomic</a><text> – an attempt to create a minified and faster version of React likeness.</text><br>
  • <a align="center" target="_blank" href="https://github.com/spelsinx/whichx-utils">♻️ WhichX-utils</a><text> – a npm package, with tools designed to work with strings, numbers, and mathematics.</text><br>
  • <a align="center"><b>😉 And more–more</b></a><text> – comming soon!</text>
 <h1 align="center">ℹ️ Statistics:</h1>
