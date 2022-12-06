@@ -16,7 +16,6 @@
 <br><img src="https://readme-stickers.vercel.app/api/kodeveloper?name=spelsinx&theme=dark" align="center"></a>
 <p>
 <h1 align="center">🧭 Projects:</h1>
- • <a align="center" target="_blank" href="https://github.com/spelsinx/telestatic">🛫 Telestatic</a><text> – Telegram MTProto framework for NodeJS.</text><br>
  • <a align="center" target="_blank" href="https://github.com/basescriptnet/BaseScript.lang">🏗️ BaseScript</a><text> – is a programming language, which aims to compile your code to JavaScript.</text><br>
  • <a align="center" target="_blank" href="https://github.com/spelsinx/sketch">🖋️ Sketch</a><text> – is a programming language, created to combine all the ways and styles of writing code, and the language that compiles to JavaScript.</text><br>
  • <a align="center" target="_blank" href="https://github.com/spelsinx/atomic">⚛️ Atomic</a><text> – an attempt to create a minified and faster version of React likeness.</text><br>
