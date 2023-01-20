@@ -39,10 +39,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=spelsinx&theme=yellowdark&hide_border=true"/>
 </p>
-<p align="center"><b>📊 Github Contribution Graph</b></p>
-<p align="center">
-  <img height="180em" align="center" src="https://activity-graph.herokuapp.com/graph?username=spelsinx&bg_color=000000&color=D9D9D9&line=FCFF00&point=FFFFFF&hide_border=true" />
-</p>
 <p align="center"><b>🏆 Github Achievements</b></p>
 <p align="center">
   <img height="180em" align="center" src="https://github-profile-trophy.vercel.app/?username=spelsinx&row=2&column=3&theme=dark_lover" />
